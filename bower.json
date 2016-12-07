@@ -1,0 +1,20 @@
+{
+  "name": "libApp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "AhmedShab <ahmed.vuw@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AhmedShab/express-library",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
